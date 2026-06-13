@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="reverse-integers/reverse-integers.csproj" />
+  <Project Path="String-to-Integer-atoi/String-to-Integer-atoi.csproj" />
 </Solution>
