@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="reverse-integers/reverse-integers.csproj" />
-  <Project Path="String-to-Integer-atoi/String-to-Integer-atoi.csproj" />
+  <Project Path="reverse-integers/reverse-integers.csproj" Id="7921636b-99eb-4be6-9eb1-c9a0b090b4a3" />
+  <Project Path="String-to-Integer-atoi/String-to-Integer-atoi.csproj" Id="3c67731d-60dd-43fb-b9cb-d99dcac80464" />
+  <Project Path="Weighted Word Mapping/Weighted Word Mapping.csproj" Id="a3c1af33-8612-4a01-a649-5edc5bb29f50" />
 </Solution>
