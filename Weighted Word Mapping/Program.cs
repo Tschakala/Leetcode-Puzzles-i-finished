@@ -25,8 +25,7 @@ namespace Weighted_Word_Mapping
                 Console.ResetColor();*/
                 count++;
             }
-            MapWordWeights(words, weight);
-            //Console.WriteLine(MapWordWeights(words, weight)); 
+            Console.WriteLine(MapWordWeights(words, weight)); 
 
         }
 
