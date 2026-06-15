@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Add-Two-Numbers/Add-Two-Numbers.csproj" Id="eae5fc72-7eda-4744-bd65-db3ad50a5620" />
+  <Project Path="Delete-the-Middle-Node-of-a-Linked-List/Delete-the-Middle-Node-of-a-Linked-List.csproj" Id="801e48bd-bd8d-4b9e-a4b7-762009335b7e" />
   <Project Path="Maximum-Twin-Sum-of-a-Linked-List/Maximum-Twin-Sum-of-a-Linked-List.csproj" Id="9063a400-96e7-4177-915a-bb8d6544d8e5" />
   <Project Path="Median-of-Two-Sorted-Arrays/Median-of-Two-Sorted-Arrays.csproj" Id="defb6dc2-1ffb-40a3-a301-57c691ab84bb" />
   <Project Path="Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.csproj" Id="1d689609-8051-4242-b559-d6125d01d773" />
