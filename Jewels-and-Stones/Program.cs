@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,25 +12,31 @@ namespace Jewels_and_Stones
         static void Main(string[] args)
         {
 
+            string jewels = "aA";
+            string stones = "aAAbbbb";
 
+            Console.WriteLine(NumJewsInStones(jewels, stones));
         }
 
-        static int NumJewsInStones(string jews, string stones)
+        static int NumJewsInStones(string jewels, string stones)
         {
-            int count = 0;
+            List<char> stonescontainer = new List<char>();
+            List<char> jewelscontainer = new List<char>();
 
-            List<char> stonelist = new List<char>();
+            jewelscontainer.AddRange(jewels);
+            stonescontainer.AddRange(stones);
 
-            stonelist.AddRange(stones.ToCharArray());
-
-            foreach (char c in jewels)
+            int counter = 0;
+            foreach (char c in stonescontainer)
             {
-                if (stonelist.Contains(c))
+                if (jewels.Contains(c))
                 {
-                    count++;
+                    counter++;
                 }
+                
             }
-            return count;
+            return counter;
+
         }
     }
 }
