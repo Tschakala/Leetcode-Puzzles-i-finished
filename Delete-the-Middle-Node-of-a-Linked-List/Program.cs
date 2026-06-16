@@ -59,7 +59,7 @@ namespace Delete_the_Middle_Node_of_a_Linked_List
             ListNode slow = head;
             int counter = 0;
 
-            while ((fast != null && fast.next != null && fast.next.next != null) && (slow != null && slow.next != null))
+            while ((fast != null && fast.next != null && fast.next.next != null) /*&& (slow != null && slow.next != null)*/)
             {
                 fast = fast.next.next;
                 slow = slow.next;

@@ -5,9 +5,11 @@
   <Project Path="Maximum-Twin-Sum-of-a-Linked-List/Maximum-Twin-Sum-of-a-Linked-List.csproj" Id="9063a400-96e7-4177-915a-bb8d6544d8e5" />
   <Project Path="Median-of-Two-Sorted-Arrays/Median-of-Two-Sorted-Arrays.csproj" Id="defb6dc2-1ffb-40a3-a301-57c691ab84bb" />
   <Project Path="Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.csproj" Id="1d689609-8051-4242-b559-d6125d01d773" />
+  <Project Path="Minimum-Cost-of-Buying-Candies-With-Discount/Minimum-Cost-of-Buying-Candies-With-Discount.csproj" Id="c6714c37-ce04-4972-8ced-3ea709b33c1c" />
   <Project Path="Process-String-with-Special-Operations-I/Process-String-with-Special-Operations-I.csproj" Id="b6098a17-3b08-473f-9762-2e6b00e37273" />
   <Project Path="reverse-integers/reverse-integers.csproj" Id="7921636b-99eb-4be6-9eb1-c9a0b090b4a3" />
   <Project Path="Roman-to-Integer/Roman-to-Integer.csproj" Id="1763581b-abfc-4abb-bae6-0d5361b1e12a" />
+  <Project Path="Self-Dividing-Numbers/Self-Dividing-Numbers.csproj" Id="7e307351-84b0-4bfa-b110-993fd3708df4" />
   <Project Path="String-to-Integer-atoi/String-to-Integer-atoi.csproj" Id="3c67731d-60dd-43fb-b9cb-d99dcac80464" />
   <Project Path="Two-Sum/Two-Sum.csproj" Id="e16c100b-0aa8-4723-a211-f2cdd75e11a6" />
   <Project Path="Weighted Word Mapping/Weighted Word Mapping.csproj" Id="a3c1af33-8612-4a01-a649-5edc5bb29f50" />
