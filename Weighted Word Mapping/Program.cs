@@ -11,7 +11,7 @@ namespace Weighted_Word_Mapping
     {
         static void Main(string[] args)
         {
-            string[] words = { "haus", "drucker", "flugzeug" };
+            string[] words = { "david", "takac", "mag" , "kleine", "kinder" };
 
             int[] weight = new int[26];
 

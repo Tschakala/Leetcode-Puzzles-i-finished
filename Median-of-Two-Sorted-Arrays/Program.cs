@@ -20,6 +20,7 @@ namespace Median_of_Two_Sorted_Arrays
         {
             double median = 0;
             List<int> total = new List<int>(nums1.Length + nums2.Length);
+
             total.AddRange(nums1);
             total.AddRange(nums2);
 
