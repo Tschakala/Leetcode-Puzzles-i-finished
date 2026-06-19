@@ -2,6 +2,7 @@
   <Project Path="Add-Two-Numbers/Add-Two-Numbers.csproj" Id="eae5fc72-7eda-4744-bd65-db3ad50a5620" />
   <Project Path="Angle-Between-Hands-of-a-Clock/Angle-Between-Hands-of-a-Clock.csproj" Id="2b75085f-dc44-4ffa-9803-7c5df38b8fb6" />
   <Project Path="Delete-the-Middle-Node-of-a-Linked-List/Delete-the-Middle-Node-of-a-Linked-List.csproj" Id="801e48bd-bd8d-4b9e-a4b7-762009335b7e" />
+  <Project Path="Find-the-Highest-Altitude/Find-the-Highest-Altitude.csproj" Id="8e3e934a-d350-4298-9722-076f12b986ba" />
   <Project Path="Integer-to-Roman/Integer-to-Roman.csproj" Id="5c657fb6-4247-4c0c-a630-5a2debfaf847" />
   <Project Path="Jewels-and-Stones/Jewels-and-Stones.csproj" Id="061bd87d-e346-4e26-b76f-29ba8aec15dd" />
   <Project Path="Longest-Substring-Without-Repeating-Characters/Longest-Substring-Without-Repeating-Characters.csproj" Id="81d26a17-58a8-4539-882b-41d4d920df08" />
