@@ -6,6 +6,7 @@
   <Project Path="Integer-to-Roman/Integer-to-Roman.csproj" Id="5c657fb6-4247-4c0c-a630-5a2debfaf847" />
   <Project Path="Jewels-and-Stones/Jewels-and-Stones.csproj" Id="061bd87d-e346-4e26-b76f-29ba8aec15dd" />
   <Project Path="Longest-Substring-Without-Repeating-Characters/Longest-Substring-Without-Repeating-Characters.csproj" Id="81d26a17-58a8-4539-882b-41d4d920df08" />
+  <Project Path="Maximum-Building-Height/Maximum-Building-Height.csproj" Id="b950d5c9-e113-4dfe-b056-4ef3ee901571" />
   <Project Path="Maximum-Twin-Sum-of-a-Linked-List/Maximum-Twin-Sum-of-a-Linked-List.csproj" Id="9063a400-96e7-4177-915a-bb8d6544d8e5" />
   <Project Path="Median-of-Two-Sorted-Arrays/Median-of-Two-Sorted-Arrays.csproj" Id="defb6dc2-1ffb-40a3-a301-57c691ab84bb" />
   <Project Path="Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.csproj" Id="1d689609-8051-4242-b559-d6125d01d773" />
