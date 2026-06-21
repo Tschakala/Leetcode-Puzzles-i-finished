@@ -24,7 +24,6 @@ namespace Maximum_Building_Height
             Console.WriteLine("Max height: " + result);
         }
 
-
         static int MaxBuilding(int n, int[][] restrictions)
         {
             List<int[]> res = new List<int[]>();
