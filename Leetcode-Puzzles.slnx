@@ -8,6 +8,7 @@
   <Project Path="Longest-Substring-Without-Repeating-Characters/Longest-Substring-Without-Repeating-Characters.csproj" Id="81d26a17-58a8-4539-882b-41d4d920df08" />
   <Project Path="Maximum-Building-Height/Maximum-Building-Height.csproj" Id="b950d5c9-e113-4dfe-b056-4ef3ee901571" />
   <Project Path="Maximum-Ice-Cream-Bars/Maximum-Ice-Cream-Bars.csproj" Id="445b2883-aead-49b7-a05c-a6c2da2d0273" />
+  <Project Path="Maximum-Number-of-Balloons/Maximum-Number-of-Balloons.csproj" Id="89723ee4-1c5d-48e8-8e19-8bc99ce1cf8e" />
   <Project Path="Maximum-Twin-Sum-of-a-Linked-List/Maximum-Twin-Sum-of-a-Linked-List.csproj" Id="9063a400-96e7-4177-915a-bb8d6544d8e5" />
   <Project Path="Median-of-Two-Sorted-Arrays/Median-of-Two-Sorted-Arrays.csproj" Id="defb6dc2-1ffb-40a3-a301-57c691ab84bb" />
   <Project Path="Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.csproj" Id="1d689609-8051-4242-b559-d6125d01d773" />
